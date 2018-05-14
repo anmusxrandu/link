@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="lorem-ipsum-dolo.html"}
-if(x=="2"){xxx="sed-sagittis-neque.html"}
-if(x=="3"){xxx="blog-number-one.html"}
-if(x=="4"){xxx="soccer-gamers.html"}
-if(x=="5"){xxx="go-to-url.html"}a_to_ve[i].href="https://maycyber-download-safelink.blogspot.com/2017/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="safelink-pertama.html"}
+if(x=="2"){xxx="safelink-kedua.html"}
+if(x=="3"){xxx="safelink-ketiga.html"}
+if(x=="4"){xxx="safelink-keempat.html"}
+if(x=="5"){xxx="safelink-kelima.html"}a_to_ve[i].href="https://safelinknya-anmusxrandu.blogspot.com/2018/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
